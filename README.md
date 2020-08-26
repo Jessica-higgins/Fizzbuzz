@@ -1,0 +1,2 @@
+# Fizzbuzz
+Fizzbuzz is a game where players count incrementally, replacing any number divisible by three with the word "fizz", and any number divisible by five with the word "buzz". If the number is divisible by both three and five it becomes "fizzbuzz". In this project, the user will pick the divisors and the words to replace the numbers that are divisible. (ex: instead of fizz and buzz, user can choose pop and corn)
